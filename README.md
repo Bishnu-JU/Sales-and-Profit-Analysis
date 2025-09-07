@@ -40,7 +40,7 @@ Step 7: Published dashboard to Power BI Service for stakeholder access.
  # Report Snapshot (Power BI DESKTOP)
 
  
-![Dashboard_upload]
+![Dashboard_upload]<img width="1339" height="749" alt="Image" src="https://github.com/user-attachments/assets/d68559ea-b234-44f9-bc71-5740f41b9270" />
 # Insights
 
 From the dashboard, the following insights can be drawn:
