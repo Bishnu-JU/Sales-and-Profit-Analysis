@@ -45,27 +45,27 @@ Step 7: Published dashboard to Power BI Service for stakeholder access.
 
 From the dashboard, the following insights can be drawn:
 
-# [1] Top/Bottom Analysis
+# . Top/Bottom Analysis
 
 Top 5 products contribute significantly to overall sales and profit.
 
 Certain low-performing products result in minimal revenue but higher discounts, impacting profitability.
 
-# [2] Sales Trends
+# . Sales Trends
 
 Monthly/Quarterly patterns reveal peak sales seasons.
 
 Growth trends indicate strong Q2 and Q4 performance.
 
-# [3] Profitability
+# .Profitability
 
 Clear positive correlation between Sales and Profit, except for categories with heavy discounts.
 
-# [4] Period Comparison
+# . Period Comparison
 
 Comparing two time periods (e.g., Q1 vs Q2) shows revenue growth but declining profit margins due to higher discounts.
 
-# [5] Discount Impact
+# . Discount Impact
 
 Average discount by category indicates over-discounting in some segments, reducing profit margins.
 
